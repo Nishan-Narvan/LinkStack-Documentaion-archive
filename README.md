@@ -1,10 +1,6 @@
 # LinkStack 🔗-Documentaion-archive
 "Note: The source code for this project was lost due to data corruption, but this repository serves as documentation of the implementation and functionality."
 
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Tech](https://img.shields.io/badge/Stack-MERN-blue)
-
 ## Overview
 LinkStack allows users to aggregate their links in one place.
 
@@ -29,7 +25,11 @@ LinkStack allows users to aggregate their links in one place.
 ---
 
 
-https://github.com/user-attachments/assets/10cacfa9-32d6-40a8-8899-caa834fe46ea
+
+https://github.com/user-attachments/assets/5363fc2a-7a04-420c-aac9-73d3961c1b85
+
+
+
 
 
 ##  Backend Logic 
