@@ -1,7 +1,6 @@
-# LinkStack-Documentaion-archive
+# LinkStack 🔗-Documentaion-archive
 "Note: The source code for this project was lost due to data corruption, but this repository serves as documentation of the implementation and functionality."
 
-# LinkStack: Social Link Curator 🔗
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Tech](https://img.shields.io/badge/Stack-MERN-blue)
@@ -28,6 +27,10 @@ LinkStack allows users to aggregate their links in one place.
 * **Auth:** JWT, Bcrypt.js
 
 ---
+
+
+https://github.com/user-attachments/assets/10cacfa9-32d6-40a8-8899-caa834fe46ea
+
 
 ##  Backend Logic 
 
